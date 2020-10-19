@@ -1,4 +1,7 @@
 language: minimal
+arch:
+  - amd64
+  - ppc64le
 env:
 - GHCVER=8.0
 - GHCVER=8.2
